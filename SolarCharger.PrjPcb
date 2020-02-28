@@ -88,6 +88,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPBUFDGM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SolarCharger\Design Rule Check - SolarChargerV2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
